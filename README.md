@@ -14,10 +14,11 @@
 
 > Tip:点击svg文件中的题目，可以跳转到题目页面。
 
-### Leetcode路线图合集
+### 新手入门教程
+[新手入门git - 用颜值超高的github desktop参与开源项目](docs/how_to_use_git.md)  
+[新手入门vscode - 如何将宇宙最强vscode打造为刷题神器](docs/how_to_use_vscode.md)  
 
-#### 小众题路线图（进度10%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_mini.svg">
+### Leetcode路线图合集
 
 #### Tree路线图（进度100%）
 <img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_tree.svg">
@@ -25,17 +26,23 @@
 #### 动态规划路线图（进度40%）
 <img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_dp.svg">
 
+<!-- #### 并查集路线图（进度10%）
+<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_union_find.svg"> -->
+
+#### 堆栈队列路线图（进度60%）
+<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_heap_stack_queue.svg">
+
 #### 链表路线图（进度10%）
 <img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_linked_list.svg">
 
-#### 并查集路线图（进度10%）
-<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_union_find.svg">
 
-### Codeforces路线图（进度1%）
+#### 小众题路线图（进度10%）
+<img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/leetcode_mini.svg">
+
+### Codeforces Div.3 Div.2路线图（进度1%）
 <img src="https://raw.githubusercontent.com/acm-clan/algorithm-stone/main/images/codeforces.svg">
 
-
-#### 安装开发环境
+### 安装开发环境
 
 详细的开发说明参考：[开发文档](https://github.com/acm-clan/algorithm-stone/blob/main/docs/dev_zh.md)
 
@@ -44,16 +51,16 @@
 
 | 中文名称 | 英文名称 | 题目数量 | 整理人 | 进度 |
 | ---- | ---- | ---- | ---- | ---- |
-|[拒绝采样](https://leetcode-cn.com/tag/rejection-sampling)| rejection-sampling| 2 | | 100% |  
-|[蓄水池采样](https://leetcode-cn.com/tag/reservoir-sampling)| reservoir-sampling | 2 | | 100% |  
-|[记忆](https://leetcode-cn.com/tag/memoization)| memoization | 3 | | 0% |  
-|[扫描线](https://leetcode-cn.com/tag/line-sweep)| line-sweep | 4 | | 0% |  
-|[拓扑排序](https://leetcode-cn.com/tag/topological-sort)| topological-sort | 4 | | 0% |  
-|[二分查找树](https://leetcode-cn.com/tag/binary-search-tree)| binary-search-tree | 5 | | 0% |  
-|[树状数组](https://leetcode-cn.com/tag/binary-indexed-tree)| binary-indexed-tree | 6 | | 0% |  
-|[随机数](https://leetcode-cn.com/tag/random)| random  | 6 | | 0% |
-|[智商题](https://leetcode-cn.com/tag/brainteaser)| brainteaser  | 7 | | 0% |
-|[最小最大值](https://leetcode-cn.com/tag/minimax)| minimax  | 7 | | 0% |
+|[拒绝采样](https://leetcode-cn.com/tag/rejection-sampling)| `rejection-sampling`| 2 | `dansen` | 100% |  
+|[蓄水池采样](https://leetcode-cn.com/tag/reservoir-sampling)| `reservoir-sampling` | 2 |`dansen` | 100% |  
+|[记忆](https://leetcode-cn.com/tag/memoization)| memoization | 3 | `dansen`| 100% |  
+|[扫描线](https://leetcode-cn.com/tag/line-sweep)| line-sweep | 4 |`dansen` | 100% |  
+|[拓扑排序](https://leetcode-cn.com/tag/topological-sort)| `topological-sort` | 4 |`dansen` | 100% |  
+|[二分查找树](https://leetcode-cn.com/tag/binary-search-tree)| `binary-search-tree` | 5 |`dansen` | 100% |  
+|[树状数组](https://leetcode-cn.com/tag/binary-indexed-tree)| `binary-indexed-tree` | 6 |`dansen` | 100% |  
+|[随机数](https://leetcode-cn.com/tag/random)| `random`  | 6 |`dansen` | 100% |
+|[智商题](https://leetcode-cn.com/tag/brainteaser)| `brainteaser`  | 7 |`dansen` | 100% |
+|[最小最大值](https://leetcode-cn.com/tag/minimax)| `minimax`  | 7 |`dansen` | 100% |
 |[队列](https://leetcode-cn.com/tag/queue)| queue  | 10 | | 0% |
 |[几何题](https://leetcode-cn.com/tag/geometry)| geometry  | 12 | | 0% |
 |[排序Map](https://leetcode-cn.com/tag/ordered-map)| ordered-map  | 13 | | 0% |
@@ -64,7 +71,7 @@
 |[并查集](https://leetcode-cn.com/tag/union-find)| union-find  |  29  | | 0% |
 |[递归](https://leetcode-cn.com/tag/recursion)| recursion  | 40 | | 0% |
 |[图论](https://leetcode-cn.com/tag/graph)| graph  | 43 | | 0% |
-|[堆算法](https://leetcode-cn.com/tag/heap)| heap  |43  | | 0% |
+|[堆](https://leetcode-cn.com/tag/heap)| heap  |43  | | 0% |
 |[设计题](https://leetcode-cn.com/tag/design)| design  | 47 | | 0% |
 |[链表](https://leetcode-cn.com/tag/linked-list)| `linked-list` | 51 |`chocolate` `dansen` | 10% |
 |[回溯算法](https://leetcode-cn.com/tag/backtracking)| backtracking  | 61 | | 0% |
